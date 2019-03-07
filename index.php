@@ -15,7 +15,7 @@
 
 	<div id="page">
 		<header>
-			<h1>Taiga</h1>
+			<h1>Taiga Gaby</h1>
 
 			<?php include("modules/menu.php") ?>
 		</header>
